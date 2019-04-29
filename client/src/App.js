@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import PingComponent from './PingComponent'
+import PingComponent from './PingComponent';
 
 class App extends Component {
   render() {
@@ -18,7 +18,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React using Go, Docker and Heroku
           </a>
           <PingComponent />
         </header>
